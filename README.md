@@ -7,5 +7,4 @@
 [Turn Python Scripts into Beautiful ML Tools, Introducing Streamlit, an app framework built for ML engineers](https://towardsdatascience.com/coding-ml-tools-like-you-code-ml-models-ddba3357eace)
 
 
-[Python Tutorial: virtualenv and why you should use virtual environments]
-(https://www.youtube.com/watch?v=N5vscPTWKOk)
+[Python Tutorial: virtualenv and why you should use virtual environments](https://www.youtube.com/watch?v=N5vscPTWKOk)
