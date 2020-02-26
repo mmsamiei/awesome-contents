@@ -8,3 +8,5 @@
 
 
 [Python Tutorial: virtualenv and why you should use virtual environments](https://www.youtube.com/watch?v=N5vscPTWKOk)
+
+[PyTorch Template Project](https://github.com/victoresque/pytorch-template)
