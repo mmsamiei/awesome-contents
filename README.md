@@ -14,3 +14,5 @@
 [9 Tips For Training Lightning-Fast Neural Networks In Pytorch](https://towardsdatascience.com/9-tips-for-training-lightning-fast-neural-networks-in-pytorch-8e63a502f565)
 
 [How to: Write a list of dictionaries to a CSV file using DictWriter](https://kite.com/python/examples/3263/csv-write-a-list-of-dictionaries-to-a-csv-file-using-%60dictwriter)
+
+[How to Scrape Tweets From Twitter](https://towardsdatascience.com/how-to-scrape-tweets-from-twitter-59287e20f0f1)
