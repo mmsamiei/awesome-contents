@@ -16,3 +16,5 @@
 [How to: Write a list of dictionaries to a CSV file using DictWriter](https://kite.com/python/examples/3263/csv-write-a-list-of-dictionaries-to-a-csv-file-using-%60dictwriter)
 
 [How to Scrape Tweets From Twitter](https://towardsdatascience.com/how-to-scrape-tweets-from-twitter-59287e20f0f1)
+
+[A complete exploratory data analysis and visualization for text data](https://towardsdatascience.com/a-complete-exploratory-data-analysis-and-visualization-for-text-data-29fb1b96fb6a)
