@@ -18,3 +18,5 @@
 [How to Scrape Tweets From Twitter](https://towardsdatascience.com/how-to-scrape-tweets-from-twitter-59287e20f0f1)
 
 [A complete exploratory data analysis and visualization for text data](https://towardsdatascience.com/a-complete-exploratory-data-analysis-and-visualization-for-text-data-29fb1b96fb6a)
+
+[Building safe artificial intelligence: specification, robustness, and assurance](https://medium.com/@deepmindsafetyresearch/building-safe-artificial-intelligence-52f5f75058f1)
