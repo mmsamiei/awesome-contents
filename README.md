@@ -20,3 +20,5 @@
 [A complete exploratory data analysis and visualization for text data](https://towardsdatascience.com/a-complete-exploratory-data-analysis-and-visualization-for-text-data-29fb1b96fb6a)
 
 [Building safe artificial intelligence: specification, robustness, and assurance](https://medium.com/@deepmindsafetyresearch/building-safe-artificial-intelligence-52f5f75058f1)
+
+[bronze medalHugging Face Tutorials - Training Tokenizer](https://www.kaggle.com/funtowiczmo/hugging-face-tutorials-training-tokenizer)
