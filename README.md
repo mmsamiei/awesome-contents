@@ -22,3 +22,5 @@
 [Building safe artificial intelligence: specification, robustness, and assurance](https://medium.com/@deepmindsafetyresearch/building-safe-artificial-intelligence-52f5f75058f1)
 
 [bronze medalHugging Face Tutorials - Training Tokenizer](https://www.kaggle.com/funtowiczmo/hugging-face-tutorials-training-tokenizer)
+
+[Text Similarities : Estimate the degree of similarity between two texts](https://medium.com/@adriensieg/text-similarities-da019229c894#b8cd)
