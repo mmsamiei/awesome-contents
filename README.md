@@ -26,3 +26,5 @@
 [Text Similarities : Estimate the degree of similarity between two texts](https://medium.com/@adriensieg/text-similarities-da019229c894#b8cd)
 
 [Download Files From Google Drive With curl/wget ](https://dev.to/kojikanao/download-files-from-google-drive-with-curl-wget-5e4o)
+
+[Illustrating the Reformer](https://towardsdatascience.com/illustrating-the-reformer-393575ac6ba0)
