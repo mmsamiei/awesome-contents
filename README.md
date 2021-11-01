@@ -30,3 +30,7 @@
 [Illustrating the Reformer](https://towardsdatascience.com/illustrating-the-reformer-393575ac6ba0)
 
 [How to Import Data from Kaggle to Google Colab](https://medium.com/@galhever/how-to-import-data-from-kaggle-to-google-colab-8160caa11e2)
+
+
+
+[How To Use Linux Screen](https://linuxize.com/post/how-to-use-linux-screen/)
