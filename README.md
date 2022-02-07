@@ -34,3 +34,5 @@
 [Jupyter notebooks in Visual Studio Code does not use the active virtual environment](https://stackoverflow.com/questions/58119823/jupyter-notebooks-in-visual-studio-code-does-not-use-the-active-virtual-environm)
 
 [How To Use Linux Screen](https://linuxize.com/post/how-to-use-linux-screen/)
+
+[Beautiful Soup: Build a Web Scraper With Python](https://realpython.com/beautiful-soup-web-scraper-python/)
