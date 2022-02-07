@@ -31,6 +31,6 @@
 
 [How to Import Data from Kaggle to Google Colab](https://medium.com/@galhever/how-to-import-data-from-kaggle-to-google-colab-8160caa11e2)
 
-[Jupyter notebooks in Visual Studio Code does not use the active virtual environment] (https://stackoverflow.com/questions/58119823/jupyter-notebooks-in-visual-studio-code-does-not-use-the-active-virtual-environm)
+[Jupyter notebooks in Visual Studio Code does not use the active virtual environment](https://stackoverflow.com/questions/58119823/jupyter-notebooks-in-visual-studio-code-does-not-use-the-active-virtual-environm)
 
 [How To Use Linux Screen](https://linuxize.com/post/how-to-use-linux-screen/)
